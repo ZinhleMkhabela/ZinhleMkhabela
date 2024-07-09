@@ -1,10 +1,10 @@
 ### Hi there I'm Zinhle Nokwanda Mkhabela👋
 
 🔭 I’m currently working on full-stack development projects  
-🌱 I’m currently learning JavaScript, Python, and Java 
-👯 I’m looking to collaborate on open-source projects and hackathons  
-🤔 I’m looking for help with mastering full-stack development
-💬 Ask me about web development or self-development books  
+🌱 I’m currently learning JavaScript, Python, and Java        
+👯 I’m looking to collaborate on open-source projects and hackathons     
+🤔 I’m looking for help with mastering full-stack development                       
+💬 Ask me about web development or self-development books    
 📫 How to reach me: zinhlenokwanda9@gmail.com or connect with me on https://www.linkedin.com/in/zinhle-mkhabela/  
 😄 Pronouns: she/her  
 
