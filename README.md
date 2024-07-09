@@ -34,19 +34,10 @@
 
 ---
 
-### 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post 1 Title](https://link-to-post.com)
-- [Post 2 Title](https://link-to-post.com)
-- [Post 3 Title](https://link-to-post.com)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ### 📫 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn] (https://www.linkedin.com/in/zinhle-mkhabela/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/yourprofile/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:your-email@example.com)
 
