@@ -5,7 +5,6 @@
 
 <img src="https://github.com/ZinhleMkhabela/ZinhleMkhabela/assets/122616394/de107003-f841-4009-84e6-f6f49f28979d" alt="bryan-rodriguez-belchibia-1-rightspeed" align="right" width="200"/>
 
-### Hi there, I'm Zinhle Mkhabela 👋
 
 🔭 I’m currently working on the Nsovo and Nhlamu catering services website    
 🌱 I’m currently learning JavaScript, Python, and Java        
