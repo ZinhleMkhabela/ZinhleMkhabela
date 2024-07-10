@@ -1,13 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zinhle+Mkhabela!⭐⭐+;+An+Aspiring+Full-Stack+Developer👩🏻‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zinhle+Mkhabela!😎+;+An+Aspiring+Full-Stack+Developer👩🏻‍💻;" />
 </h1>
-
+ 
 🔭 I’m currently working on full-stack development projects  
 🌱 I’m currently learning JavaScript, Python, and Java        
 👯 I’m looking to collaborate on open-source projects and hackathons     
-🤔 I’m looking for help with mastering full-stack development                       
-💬 Ask me about web development or self-development books    
+🤔 I’m looking for help with mastering full-stack development                           
 📫 How to reach me: zinhlenokwanda9@gmail.com or connect with me on https://www.linkedin.com/in/zinhle-mkhabela/  
 😄 Pronouns: she/her  
 
@@ -41,8 +40,9 @@
 
 ### ⚡ Fun Facts:
 
-- I spend 80% of my time in front of my computer.
-- I love reading self-development books and applying what I learn daily.
-- Coding is not just a job for me; it's a passion and a way of life.
+-I spend most of my time in front of my computer, but I promise I'm not addicted to coffee—yet.
+-I enjoy reading self-development books and strive to apply the insights I gain daily.
+-For me, coding isn't just a job—it's a passion and a way of life.
+
 
 
