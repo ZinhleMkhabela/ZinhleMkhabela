@@ -2,7 +2,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zinhle+Mkhabela!😎+;+An+Aspiring+Full-Stack+Developer👩🏻‍💻;" />
 </h1>
- 
+
+<img align=”right” alt=”Coding” width=”400” src=” https://images.app.goo.gl/9dMWMX6icsFaAvUM8”
+  
 🔭 I’m currently working on full-stack development projects  
 🌱 I’m currently learning JavaScript, Python, and Java        
 👯 I’m looking to collaborate on open-source projects and hackathons     
@@ -40,9 +42,9 @@
 
 ### ⚡ Fun Facts:
 
--I spend most of my time in front of my computer, but I promise I'm not addicted to coffee—yet.          
+-I spend most of my time in front of my computer, but I promise I'm not addicted to coffee yet😅.          
 -I enjoy reading self-development books and strive to apply the insights I gain daily.            
--For me, coding isn't just a job—it's a passion and a way of life.
+-For me, coding isn't just a job, it's a passion and a way of life.
 
 
 
