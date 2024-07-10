@@ -4,8 +4,9 @@
 </h1>
 <img src="https://github.com/ZinhleMkhabela/ZinhleMkhabela/assets/122616394/de107003-f841-4009-84e6-f6f49f28979d" alt="bryan-rodriguez-belchibia-1-rightspeed" align="right" width="200"/>
 
-  
-🔭 I’m currently working on full-stack development projects  
+### Hi there, I'm Zinhle Mkhabela 👋
+
+🔭 I’m currently working on the Nsovo and Nhlamu catering services website    
 🌱 I’m currently learning JavaScript, Python, and Java        
 👯 I’m looking to collaborate on open-source projects and hackathons     
 🤔 I’m looking for help with mastering full-stack development                           
@@ -30,7 +31,13 @@
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
 ---
 
+### 📊 GitHub Stats
 
+![Zinhle's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
 
 ### 📫 Connect with me:
 
