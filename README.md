@@ -2,8 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zinhle+Mkhabela!😎+;+An+Aspiring+Full-Stack+Developer👩🏻‍💻;" />
 </h1>
-
-<img align=”right” alt=”Coding” width=”400” src=” https://images.app.goo.gl/9dMWMX6icsFaAvUM8”
+<img align=”right” alt=”Coding” width=”400” src=” https://images.app.goo.gl/9dMWMX6icsFaAvUM8”>
   
 🔭 I’m currently working on full-stack development projects  
 🌱 I’m currently learning JavaScript, Python, and Java        
