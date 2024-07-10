@@ -31,6 +31,13 @@
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
 ---
 
+### 📫 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/zinhle-mkhabela/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:zinhlenokwanda9@gmail.com)
+
+---
+
 ### 📊 GitHub Stats
 
 ![Zinhle's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinhlemkhabela&show_icons=true&theme=radical)
