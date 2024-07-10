@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zinhle+Mkhabela!😎+;+An+Aspiring+Full-Stack+Developer👩🏻‍💻;" />
 </h1>
-<img src=![git image](https://github.com/ZinhleMkhabela/ZinhleMkhabela/assets/122616394/de107003-f841-4009-84e6-f6f49f28979d) alt="bryan-rodriguez-belchibia-1-rightspeed" align="right" width="200"/>
+<img src="![git image](https://github.com/ZinhleMkhabela/ZinhleMkhabela/assets/122616394/de107003-f841-4009-84e6-f6f49f28979d)" alt="bryan-rodriguez-belchibia-1-rightspeed" align="right" width="200"/>
 
   
 🔭 I’m currently working on full-stack development projects  
