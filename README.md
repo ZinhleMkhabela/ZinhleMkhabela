@@ -48,8 +48,7 @@
 
 ### ⚡ Fun Facts:
 
--I spend most of my time in front of my computer, but I promise I'm not addicted to coffee yet😅.          
--I enjoy reading self-development books and strive to apply the insights I gain daily.            
+-I spend most of my time in front of my computer, but I promise I'm not addicted to coffee yet😅.                
 -For me, coding isn't just a job, it's a passion and a way of life,  like a really intense hobby where my debugging skills are better than my cooking skills.
 
 
